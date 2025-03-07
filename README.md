@@ -1,5 +1,5 @@
 
-![Web-developer](https://github.com/marycieloSanchez1/marycieloSanchez1/blob/main/Marycielo%20Sanchez.gif)
+![Web-developer](https://github.com/marycieloSanchez1/marycieloSanchez1/blob/main/gif.gif)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
